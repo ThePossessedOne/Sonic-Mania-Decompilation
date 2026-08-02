@@ -1,7 +1,7 @@
 #include "Game.h"
 
 // -------------------------
-// ENGINE VARIABLES
+// ENGINE VARIABLES 
 // -------------------------
 
 RSDKFunctionTable RSDK;
